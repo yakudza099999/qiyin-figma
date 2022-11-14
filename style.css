@@ -1,0 +1,8 @@
+body {
+    background-color: silver;
+}
+
+.container .gaga {
+  position: absolute;
+  left: 30px;
+}
